@@ -1,27 +1,15 @@
-# Aula1509
+<h1 align="center"> <strong>exercise-card-angular <strong></h1>
+ 
+<p align="center">🔭 Atualmente cursando<strong> Ciência da Computação (P6)</strong>.</p>
+<p align="center">📫 Redes Sociais ↓ ↓ ↓
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<p align="center">
+  <a href="https://github.com/claudiobmontenegro"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/claudiobmontenegro"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/claudiobessa_m"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  </a>
+</p>
+<br>
+<p align="center">  
+  <a href="https://github.com/claudiobmontenegro"><img src="https://github-readme-stats.vercel.app/api?username=claudiobmontenegro&hide=prs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="claudiobmontenegro"/></a>
